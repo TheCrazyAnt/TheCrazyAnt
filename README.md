@@ -35,6 +35,13 @@ I turn ambiguous business workflows into working AI-native products — from pro
 
 ## Writing
 
+### Featured Article
+
+- [**我用 AI 做了这么多产品后，终于搞懂 Agent 到底是什么**](https://x.com/CrazyAnt2038/article/2092839778991681701)  
+  Workflow、Tool、Runtime、Harness，以及 Agent 与 Workflow 真正的分界线：到底是谁在决定下一步做什么。
+
+### Technical Notes
+
 I write technical documentation alongside the code, with an emphasis on design decisions, evidence, and operational limits.
 
 - [Agent Runtime Map — Architecture](https://github.com/TheCrazyAnt/agent-runtime-map/blob/main/docs/ARCHITECTURE.md)
