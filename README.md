@@ -59,5 +59,5 @@ Working across TypeScript, JavaScript, Python, React, Flask, Deno, Docker, and s
 
 - [GitHub · TheCrazyAnt](https://github.com/TheCrazyAnt)
 - [Portfolio · Yishun Tang](https://warm-marigold-77ef02.netlify.app)
-
+- [X · @CrazyAnt2038](https://x.com/CrazyAnt2038)
 Interested in agent infrastructure, AI-native product delivery, and forward-deployed engineering.
