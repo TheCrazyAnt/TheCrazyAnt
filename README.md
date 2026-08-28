@@ -2,6 +2,8 @@
 
 # CrazyAnt · Yishun Tang
 
+**English** · [简体中文](README.zh-CN.md)
+
 **AI Builder · Forward-Deployed Engineering · Agent Systems**
 
 I turn ambiguous business workflows into working AI-native products — from product framing and agent architecture to deployment, diagnostics, and iteration.
@@ -60,4 +62,5 @@ Working across TypeScript, JavaScript, Python, React, Flask, Deno, Docker, and s
 - [GitHub · TheCrazyAnt](https://github.com/TheCrazyAnt)
 - [Portfolio · Yishun Tang](https://warm-marigold-77ef02.netlify.app)
 - [X · @CrazyAnt2038](https://x.com/CrazyAnt2038)
+
 Interested in agent infrastructure, AI-native product delivery, and forward-deployed engineering.
